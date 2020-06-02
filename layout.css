@@ -5,6 +5,7 @@ div {
   background-color: orchid;
   box-sizing: border-box;
   text-align: center;
+  margin: auto;
 }
 #a, #b, #c, #d, #i{
   width: 480px;
