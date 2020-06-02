@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+
+}
+body {
+  width: 480px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px){
+  body {
+    width: 960px;
+  }
+}
